@@ -3,6 +3,8 @@ import {Logo} from '@shared/ui';
 import {VToolbar, VBtn, VMenu, VList, VListItem} from "vuetify/components";
 import {mdiMenu} from '@mdi/js'
 import {routerConfig} from "@shared/config";
+import {useSettingsStore} from "@entities/settings";
+import { storeToRefs } from "pinia";
 
 const menuItems = [
   {
@@ -13,7 +15,11 @@ const menuItems = [
     path: routerConfig.SETTINGS.path,
     title: routerConfig.SETTINGS.name
   }
-]
+];
+
+const settingsStore = useSettingsStore();
+
+const {currencyPair} = storeToRefs(settingsStore);
 </script>
 
 <template>
@@ -21,7 +27,7 @@ const menuItems = [
     class="header"
     density="compact"
   >
-    <div class="d-flex w-100 justify-space-between">
+    <div class="d-flex w-100 justify-space-between align-center">
       <router-link
         class="flex-0-0"
         to="/"
@@ -31,6 +37,10 @@ const menuItems = [
           tag="span"
         />
       </router-link>
+
+      <div>
+        Current pair: {{ currencyPair }}
+      </div>
 
       <v-menu
         open-on-hover
