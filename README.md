@@ -48,3 +48,5 @@ npm run build
 ```
 npm run start
 ```
+
+[ссылка на страничку gh-pages](https://argentum-konstantinium.github.io/test-binance/)
