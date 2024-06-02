@@ -1,0 +1,1 @@
+export {default as SelectItemsPerTable} from './SelectItemsPerTable.vue';
