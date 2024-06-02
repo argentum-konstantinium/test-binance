@@ -1,1 +1,0 @@
-export {default as CurrencyPairsWidget} from './SettingsWidget.vue';

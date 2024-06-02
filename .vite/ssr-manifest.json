@@ -1,0 +1,1018 @@
+{
+  "\u0000plugin-vue:export-helper": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "\u0000vite/modulepreload-polyfill.js": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "\u0000vite/preload-helper.js": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "index.html": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/@mdi/js/mdi.js": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/@vueuse/core/index.mjs": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/@vueuse/shared/index.mjs": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/adapters/adapters.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/adapters/fetch.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/adapters/xhr.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/axios.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/cancel/CancelToken.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/cancel/CanceledError.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/cancel/isCancel.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/core/Axios.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/core/AxiosError.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/core/AxiosHeaders.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/core/InterceptorManager.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/core/buildFullPath.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/core/dispatchRequest.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/core/mergeConfig.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/core/settle.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/core/transformData.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/defaults/index.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/defaults/transitional.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/env/data.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/AxiosURLSearchParams.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/HttpStatusCode.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/bind.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/buildURL.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/combineURLs.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/composeSignals.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/cookies.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/formDataToJSON.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/isAbsoluteURL.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/isAxiosError.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/isURLSameOrigin.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/null.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/parseHeaders.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/parseProtocol.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/progressEventReducer.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/resolveConfig.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/speedometer.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/spread.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/throttle.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/toFormData.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/toURLEncodedForm.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/trackStream.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/helpers/validator.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/platform/browser/classes/Blob.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/platform/browser/classes/FormData.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/platform/browser/classes/URLSearchParams.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/platform/browser/index.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/platform/common/utils.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/platform/index.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/axios/lib/utils.js": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/pinia/dist/pinia.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/pinia/node_modules/vue-demi/lib/index.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vue-router/dist/vue-router.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VAvatar/VAvatar.css": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VAvatar/VAvatar.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VBtn/VBtn.css": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VBtn/VBtn.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VBtnGroup/VBtnGroup.css": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VBtnGroup/VBtnGroup.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VBtnToggle/VBtnToggle.css": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VBtnToggle/VBtnToggle.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VCard/VCard.css": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/vuetify/lib/components/VCard/VCard.mjs": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/vuetify/lib/components/VCard/VCardActions.mjs": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/vuetify/lib/components/VCard/VCardItem.mjs": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/vuetify/lib/components/VCard/VCardSubtitle.mjs": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/vuetify/lib/components/VCard/VCardText.mjs": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/vuetify/lib/components/VCard/VCardTitle.mjs": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/vuetify/lib/components/VCheckbox/VCheckboxBtn.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VChip/VChip.css": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VChip/VChip.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VChipGroup/VChipGroup.css": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VChipGroup/VChipGroup.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VCounter/VCounter.css": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VCounter/VCounter.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/VDataTable.css": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/VDataTable.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/VDataTableColumn.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/VDataTableFooter.css": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/VDataTableFooter.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/VDataTableGroupHeaderRow.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/VDataTableHeaders.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/VDataTableRow.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/VDataTableRows.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/VDataTableVirtual.mjs": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/composables/expand.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/composables/group.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/composables/headers.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/composables/items.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/composables/options.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/composables/paginate.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/composables/select.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDataTable/composables/sort.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VDefaultsProvider/VDefaultsProvider.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VDivider/VDivider.css": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VDivider/VDivider.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VField/VField.css": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VField/VField.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VField/VFieldLabel.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VIcon/VIcon.css": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VIcon/VIcon.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VImg/VImg.css": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VImg/VImg.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VInput/InputIcon.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VInput/VInput.css": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VInput/VInput.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VLabel/VLabel.css": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VLabel/VLabel.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VList/VList.css": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VList/VList.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VList/VListChildren.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VList/VListGroup.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VList/VListItem.css": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VList/VListItem.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VList/VListItemSubtitle.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VList/VListItemTitle.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VList/VListSubheader.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VList/list.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VMenu/VMenu.css": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VMenu/VMenu.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VMenu/shared.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VMessages/VMessages.css": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VMessages/VMessages.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VOverlay/VOverlay.css": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VOverlay/VOverlay.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VOverlay/locationStrategies.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VOverlay/requestNewFrame.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VOverlay/scrollStrategies.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VOverlay/useActivator.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VOverlay/util/point.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VPagination/VPagination.css": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VPagination/VPagination.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VProgressCircular/VProgressCircular.css": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VProgressCircular/VProgressCircular.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VProgressLinear/VProgressLinear.css": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VProgressLinear/VProgressLinear.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VResponsive/VResponsive.css": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VResponsive/VResponsive.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VSelect/VSelect.css": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VSelect/VSelect.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VSelect/useScrolling.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VSelectionControl/VSelectionControl.css": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VSelectionControl/VSelectionControl.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VSelectionControlGroup/VSelectionControlGroup.css": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VSelectionControlGroup/VSelectionControlGroup.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VSlideGroup/VSlideGroup.css": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VSlideGroup/VSlideGroup.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VSlideGroup/helpers.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VTable/VTable.css": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VTable/VTable.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VTextField/VTextField.css": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VTextField/VTextField.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VToolbar/VToolbar.css": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VToolbar/VToolbar.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VToolbar/VToolbarTitle.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/VVirtualScroll/VVirtualScroll.css": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VVirtualScroll/VVirtualScroll.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/VVirtualScroll/VVirtualScrollItem.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/components/transitions/createTransition.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/transitions/dialog-transition.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/transitions/expand-transition.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/components/transitions/index.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/border.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/color.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/component.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/date/adapters/vuetify.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/date/date.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/defaults.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/delay.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/density.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/dimensions.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/display.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/elevation.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/filter.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/composables/focus.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/composables/form.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/composables/forwardRefs.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/goto.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/group.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/hydration.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/icons.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/intersectionObserver.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/lazy.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/list-items.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/loader.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/locale.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/location.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/nested/activeStrategies.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/nested/nested.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/nested/openStrategies.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/nested/selectStrategies.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/position.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/proxiedModel.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/refs.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/composables/resizeObserver.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/rounded.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/router.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/scopeId.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/selectLink.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/size.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/ssrBoot.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/stack.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/tag.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/teleport.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/theme.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/toggleScope.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/transition.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/validation.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/composables/variant.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/composables/virtual.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/directives/click-outside/index.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/directives/intersect/index.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/directives/ripple/VRipple.css": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/directives/ripple/index.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/framework.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/iconsets/mdi-svg.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/iconsets/mdi.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/locale/adapters/vuetify.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/locale/en.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/styles/main.css": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/anchor.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/animation.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/bindProps.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/box.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/color/APCA.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/color/transformCIELAB.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/color/transformSRGB.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/colorUtils.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/console.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/createSimpleFunctional.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/defineComponent.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/dom.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/easing.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/events.mjs": [
+    "/test-binance/assets/VDataTable-DUVk5XHy.js",
+    "/test-binance/assets/VDataTable-gfxrb_aP.css"
+  ],
+  "node_modules/vuetify/lib/util/getCurrentInstance.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/getScrollParent.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/globals.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/helpers.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/injectSelf.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/isFixedPosition.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/propsFactory.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "node_modules/vuetify/lib/util/useRender.mjs": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/app/Main.vue": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/app/Main.vue?vue&type=script&setup=true&lang.ts": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/app/Main.vue?vue&type=style&index=0&scoped=184f7644&lang.scss": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/app/index.ts": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/app/providers/router.ts": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/app/ui/Header/index.vue": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/app/ui/Header/index.vue?vue&type=script&setup=true&lang.ts": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/app/ui/Header/index.vue?vue&type=style&index=0&scoped=456cc594&lang.scss": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/entities/order-book/api/getOrderBook.ts": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "src/entities/order-book/model/order-book.ts": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "src/entities/order-book/ui/OrderBook.vue": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "src/entities/order-book/ui/OrderBook.vue?vue&type=script&setup=true&lang.ts": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "src/entities/order-book/ui/OrderBook.vue?vue&type=style&index=0&scoped=d9535be3&lang.scss": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "src/entities/settings/model/settings.ts": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/entities/settings/ui/HistoryChanges.vue": [
+    "/test-binance/assets/index-BsT2B87B.js",
+    "/test-binance/assets/index-zo-OzCUx.css"
+  ],
+  "src/entities/settings/ui/HistoryChanges.vue?vue&type=script&setup=true&lang.ts": [
+    "/test-binance/assets/index-BsT2B87B.js",
+    "/test-binance/assets/index-zo-OzCUx.css"
+  ],
+  "src/entities/settings/ui/HistoryChanges.vue?vue&type=style&index=0&scoped=0828b0bc&lang.scss": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/entities/settings/ui/Settings.vue?vue&type=script&setup=true&lang.ts": [
+    "/test-binance/assets/index-BsT2B87B.js",
+    "/test-binance/assets/index-zo-OzCUx.css"
+  ],
+  "src/features/select-currency-pair/ui/SelectCurrencyPair.vue?vue&type=script&setup=true&lang.ts": [
+    "/test-binance/assets/index-BsT2B87B.js",
+    "/test-binance/assets/index-zo-OzCUx.css"
+  ],
+  "src/features/select-items-per-table/ui/SelectItemsPerTable.vue?vue&type=script&setup=true&lang.ts": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "src/main.ts": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/pages/index.ts": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/pages/order-book/index.ts": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "src/pages/order-book/index.vue?vue&type=script&setup=true&lang.ts": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "src/pages/settings/index.ts": [
+    "/test-binance/assets/index-BsT2B87B.js",
+    "/test-binance/assets/index-zo-OzCUx.css"
+  ],
+  "src/pages/settings/index.vue?vue&type=script&setup=true&lang.ts": [
+    "/test-binance/assets/index-BsT2B87B.js",
+    "/test-binance/assets/index-zo-OzCUx.css"
+  ],
+  "src/pages/settings/index.vue?vue&type=style&index=0&lang.scss": [
+    "/test-binance/assets/index-BsT2B87B.js",
+    "/test-binance/assets/index-zo-OzCUx.css"
+  ],
+  "src/shared/api/config/constants/backend.ts": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "src/shared/api/getMarketDepth.ts": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "src/shared/assets/logo.png": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/shared/config/constants/currencyPairs.ts": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/shared/config/constants/itemsPerTable.ts": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "src/shared/config/constants/router.ts": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/shared/ui/Logo/index.vue": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/shared/ui/Logo/index.vue?vue&type=script&setup=true&lang.ts": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/shared/ui/Logo/index.vue?vue&type=style&index=0&scoped=e2874ac8&lang.scss": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/shared/ui/scss/reset.scss": [
+    "/test-binance/assets/logo-D9P1ud35.png"
+  ],
+  "src/shared/utils/binarySearch.ts": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "src/widgets/order-book/ui/OrderBookWidget.vue?vue&type=script&setup=true&lang.ts": [
+    "/test-binance/assets/index-BAzl6MJr.js",
+    "/test-binance/assets/index-DmjGwvX7.css"
+  ],
+  "src/widgets/settings/ui/SettingsWidget.vue?vue&type=script&setup=true&lang.ts": [
+    "/test-binance/assets/index-BsT2B87B.js",
+    "/test-binance/assets/index-zo-OzCUx.css"
+  ]
+}
