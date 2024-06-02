@@ -34,6 +34,7 @@ const menuItems = [
 
       <v-menu
         open-on-hover
+        open-on-click
         transition="slide-y-transition"
       >
         <template #activator="{props}">
